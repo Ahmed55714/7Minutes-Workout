@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions, feedback, or issues, please contact the project owner at [Elbaadawy.ahmed@gmail.com](mailto:Elbaadawy.ahmed@gmail.com).
 
-<img src="WhatsApp Image 2023-08-18 at 22 37 4](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/5cac6f5f-7496-4fa9-ba8f-420118b193f6" alt="Image Description" width="300"/>
+
 
 
 ![WhatsApp Image 2023-08-18 at 22 37 4](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/5cac6f5f-7496-4fa9-ba8f-420118b193f6)
