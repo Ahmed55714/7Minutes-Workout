@@ -81,14 +81,9 @@ For questions, feedback, or issues, please contact the project owner at [Elbaada
 
 
 
-## Screenshots
+## video
 
-<img src="[![WhatsApp Image 2023-08-18 at 22 41 58](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/fbd9a019-feb4-4ee6-93a2-c49e336c183d)]"  width="300"/>
-<img src="assets/76036752/d9a3a3c3-fb29-479c-87a8-683ad6c97312.jpg" alt="Screenshot 2" width="300"/>
-<img src="assets/76036752/9aa5a091-4a6b-4150-b786-ef468d0fbd9d.jpg" alt="Screenshot 3" width="300"/>
-<img src="assets/76036752/66a9838b-28d0-44a4-ab29-5856947b0194.jpg" alt="Screenshot 4" width="300"/>
-<img src="assets/76036752/77ddf617-9568-484a-acb2-333cd545561f.jpg" alt="Screenshot 5" width="300"/>
-<img src="assets/76036752/8c23f887-b4e7-48f3-baa2-2f454f856b24.jpg" alt="Screenshot 6" width="300"/>
-<img src="assets/76036752/29b60699-ddbe-4a5f-8d02-86b48c9cc866.jpg" alt="Screenshot 7" width="300"/>
-<img src="assets/76036752/ca787b74-fd80-471d-84ea-2de8822a52a2.jpg" alt="Screenshot 8" width="300"/>
+https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/4112bbdc-ac87-41cb-9f05-364f536e2362
+
+
 
