@@ -83,7 +83,7 @@ For questions, feedback, or issues, please contact the project owner at [Elbaada
 
 ## Screenshots
 
-<img src=![WhatsApp Image 2023-08-18 at 22 41 58](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/fbd9a019-feb4-4ee6-93a2-c49e336c183d) alt="Screenshot 1" width="300"/>
+<img src="[![WhatsApp Image 2023-08-18 at 22 41 58](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/fbd9a019-feb4-4ee6-93a2-c49e336c183d)]" alt="Screenshot 1" width="300"/>
 <img src="assets/76036752/d9a3a3c3-fb29-479c-87a8-683ad6c97312.jpg" alt="Screenshot 2" width="300"/>
 <img src="assets/76036752/9aa5a091-4a6b-4150-b786-ef468d0fbd9d.jpg" alt="Screenshot 3" width="300"/>
 <img src="assets/76036752/66a9838b-28d0-44a4-ab29-5856947b0194.jpg" alt="Screenshot 4" width="300"/>
