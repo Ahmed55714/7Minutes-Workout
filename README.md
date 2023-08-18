@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or issues, please contact the project owner at [Elbaadawy.ahmed55714@gmail.com](mailto:Elbaadawy.ahmed55714@gmail.com).
+For questions, feedback, or issues, please contact the project owner at [Elbaadawy.ahmed@gmail.com](mailto:Elbaadawy.ahmed@gmail.com).
